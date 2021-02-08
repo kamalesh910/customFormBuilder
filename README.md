@@ -1,0 +1,2 @@
+# customFormBuilder
+Project allows user to drag and drop form field and helps him to build his custom form. In this user can set different properties related to  field e.x. label field have peoperty like font-size , font-family and so it allows for custom design also we add some validation to that form also. At designer we collect that data and later on we will Render same while execution of that form 
